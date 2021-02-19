@@ -4,15 +4,11 @@ using UnityEngine;
 
 public class CameraLook : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public float horizontalSpeed = 2f;
+    public float verticalSpeed = 2f;
+    public float height = 2f;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    
+
+
 }
